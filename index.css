@@ -1,0 +1,125 @@
+#textp{
+  letter-spacing: 4px;
+}
+#mainpart{
+position: relative;
+
+}
+/* navigation bar  */
+#names{
+cursor: pointer;
+
+}
+
+
+
+
+ /* first product for desktop */
+@media (max-width:1300px){
+  
+#productf{
+  position: absolute;
+  top: 760px;
+  }
+  #ultraimg{
+    position: absolute;
+    top: 450px;
+  left: 40%;
+  width: 200px;
+  height: 250px;
+  }}
+
+
+
+/* first product for Mobile */
+@media (max-width:390px){
+  
+#productf{
+  position: absolute;
+  top: 760px;
+  }
+  #ultraimg{
+    position: absolute;
+    top: 450px;
+  left: 23%;
+  width: 200px;
+  height: 250px;
+  }}
+  @media (min-width:391px) and (max-width:420px){
+  
+    #productf{
+      position: absolute;
+      top: 760px;
+      }
+      #ultraimg{
+        position: absolute;
+        top: 450px;
+      left: 31%;
+      width: 200px;
+      height: 250px;
+      }}
+@media (min-width:421px) and (max-width:450px){
+  
+    #productf{
+      position: absolute;
+      top: 760px;
+      }
+      #ultraimg{
+        position: absolute;
+        top: 450px;
+      left: 30%;
+      width: 200px;
+      height: 250px;
+      }}
+@media (min-width:451px) and (max-width:500px){
+  
+        #productf{
+          position: absolute;
+          top: 760px;
+          }
+          #ultraimg{
+            position: absolute;
+            top: 450px;
+          left: 33%;
+          width: 200px;
+          height: 250px;
+          }}
+@media (min-width:501px) and (max-width:624px){
+  
+#productf{
+              position: absolute;
+              top: 760px;
+              }
+              #ultraimg{
+                position: absolute;
+                top: 490px;
+              left: 36%;
+              width: 200px;
+              height: 250px;
+}}
+@media (min-width:625px) and (max-width:700px){
+  
+  #productf{
+                position: absolute;
+                top: 760px;
+                }
+                #ultraimg{
+                  position: absolute;
+                  top: 510px;
+                left: 35%;
+                width: 200px;
+                height: 250px;
+  }}
+
+/* contact us page */
+
+#pagecontact{
+
+  top:720px;
+}
+
+
+
+
+
+
